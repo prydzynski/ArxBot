@@ -1,0 +1,6 @@
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyc", line 530, in __bootstrap_inner
+  File "Arx.py", line 498, in run
+IndexError: list index out of range
+

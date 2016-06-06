@@ -1,0 +1,10 @@
+env
+*.DS_Store
+*.pyc
+__pycache__
+*.pyd
+*.sqlite3
+*.exe
+*.pyo
+*.lnk
+*.dll
